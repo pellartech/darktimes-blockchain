@@ -6,12 +6,12 @@ import { ERC20Permit } from "@openzeppelin/contracts/token/ERC20/extensions/draf
 import { ERC20Votes } from "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol";
 
 //
-//   +-+ +-+ +-+ +-+   +-+ +-+ +-+ +-+ +-+
-//   |D| |A| |R| |K|   |T| |I| |M| |E| |S|
-//   +-+ +-+ +-+ +-+  +-+ +-+ +-+ +-+ +-+
+//   +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+
+//   |D| |A| |R| |K| |T| |I| |M| |E| |S|
+//   +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+
 //
 //
-//   DARKTIMES 2022
+//   DARKTIMES 2024
 //
 
 contract DARKTIMES is ERC20, ERC20Permit, ERC20Votes {
